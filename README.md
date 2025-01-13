@@ -33,10 +33,10 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/UiJungYang"><div align=center>@ajeseung</div></a></td>
-      <td><a href="https://github.com/denalog"><div align=center>@minleewang</div></a></td>
-      <td><a href="https://github.com/pyd525"><div align=center>@UiJungYang</div></a></td>
-      <td><a href="https://github.com/jungs0914"><div align=center>@kimhyeonu4586</div></a></td>
+      <td><a href="https://github.com/ajeseung"><div align=center>@ajeseung</div></a></td>
+      <td><a href="https://github.com/minleewang"><div align=center>@minleewang</div></a></td>
+      <td><a href="https://github.com/UiJungYang"><div align=center>@UiJungYang</div></a></td>
+      <td><a href="https://github.com/kimhyeonu4586"><div align=center>@kimhyeonu4586</div></a></td>
     </tr>
   </tbody>
 </table>
